@@ -54,4 +54,6 @@ Please make sure to maintain `authorship`.
 
 [MIT](https://github.com/lordarcadius/portfolio/blob/master/LICENSE)
 
-  
+## joe052
+
+please remeber to learn how to deploy this
